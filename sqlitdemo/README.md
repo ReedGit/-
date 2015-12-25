@@ -1,0 +1,3 @@
+#关于SQLite相关操作的代码示例
+
+这是一个module,需要在Android Studio中建立一个Project运行
